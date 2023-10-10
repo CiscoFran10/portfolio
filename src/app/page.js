@@ -1,6 +1,6 @@
 "use client";
 
-import * as data from "../data.json";
+import { data } from "../data.js";
 import { motion } from "framer-motion";
 import Header from "./components/Header";
 import ProjectCard from "./components/ProjectCard";
